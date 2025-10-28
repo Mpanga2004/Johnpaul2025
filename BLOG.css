@@ -1,0 +1,160 @@
+body{
+
+background: url(IMG_1714[1].JPG);
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.head {
+    font-size: large;
+}
+.Main-div{
+
+   margin: 5%;
+   justify-content: space-around;
+    display: flex;
+   
+}
+.first-div{
+   border: solid 1px;
+   background-color: white;
+   font-size: 50px;
+   flex-basis: 20%;
+   border-radius: 100px;
+   box-shadow: 50px 50px 50px 50px black;
+    }
+/*.first-div:hover{
+    flex-basis: 25px;
+    background-color: aqua;
+    transition: 0.3s;
+
+}*/
+#beach:hover{
+    width: 1100px;
+    height: 900px;
+     transition: 0.3s;
+
+}
+.second-div{
+    border: solid 1px;
+    background-color: white;
+    border-radius: 100px;
+    font-size: 50px;
+flex-basis: 20%;
+ box-shadow: 50px 50px 50px 50px black;
+
+}
+.second-div:hover{
+    background-color: aquamarine; 
+   
+
+}
+#spongebob:hover{
+    width: 1100px;
+    height: 900px;
+    transition: 0.3s;
+}
+.third-div{
+    border: solid 1px;
+    background-color: white;
+    border-radius: 100px;
+    font-size: 50px;
+    flex-basis: 20%;
+    box-shadow: 50px 50px 50px 50px black;
+ 
+} 
+  .third-div:hover{
+        
+        background-color: aqua;
+    }
+
+    #nature:hover{
+        width: 1100px;
+        height: 900px;
+    }
+#beach{
+    width: 1050px;
+    height: 800px;
+    background-attachment: fixed;
+}
+
+#spongebob{
+width: 1050px;
+    height: 800px;
+
+}
+#nature{
+width: 1050px;
+    height: 800px;
+}
+#time1{
+    color: crimson;
+    font-size: 60px;
+}
+#time2{
+   color: orangered;
+    font-size: 60px; 
+}
+#time3{
+    color: green;
+    font-size: 60px;
+}
+
+
+.inner-div1{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: crimson;
+    border-radius: 3%;
+    .inner-div1:hover{
+        box-sizing: 40%;
+    }
+   
+}
+.read1{
+   background-color: crimson;
+  
+   
+}
+.views1{
+    border: solid 3px;
+    border-color: black;
+    background-color: crimson;
+    flex-basis: 35%;
+
+
+}
+.comments1{
+    background-color: crimson;
+}
+.inner-div2{
+    background-color: rgb(255, 17, 0);
+    display: flex;
+    justify-content: space-between;
+}
+.inner-div3{
+    background-color: rgb(55, 205, 50);
+    display: flex;
+    justify-content: space-between;
+
+}
+.views2{
+    border: solid 2px;
+    flex-basis: 35%;
+}
+.views3{
+    border: solid 2px;
+    flex-basis: 35%;
+}
+.read3{
+    flex-basis: 35%;
+}
+.read2{
+    flex-basis: 35%;
+}
+.comments3{
+    flex-basis: 35%;
+ 
+}

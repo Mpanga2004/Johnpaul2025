@@ -1,0 +1,87 @@
+
+.head {
+    justify-content: space-between;
+    text-align: center;
+    
+}
+body {
+    background-image: url(IMG_1718[1].JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 50%;
+    
+}
+
+.container {
+    max-height: 2200px;
+    margin: 100px;
+    max-width: 600px;
+    background-color: rgb(221, 250, 250);
+    padding: 50px 50px 50px;
+    border: 50px;
+}
+.details {
+    border-radius: border-box;
+    font-family: sans-serif;
+}
+
+
+
+
+.infor{
+    text-shadow: 2px 2px 2px;
+    color: rgb(32, 60, 113);
+      text-decoration: underline;
+
+}
+#skill{
+     text-shadow: 2px 2px 2px;
+    color: rgb(32, 60, 113);
+      text-decoration: underline;
+}
+#educ{
+ text-shadow: 2px 2px 2px;
+    color: rgb(32, 60, 113); 
+     text-decoration: underline;
+
+}
+#about{
+     text-shadow: 2px 2px 2px;
+    color: rgb(32, 60, 113);
+    text-decoration: underline;
+}
+#table{
+    background-color: aliceblue;
+}
+
+.Moving-box{
+    width: 150px;
+    height: 150px;
+}
+#work{
+    text-shadow: 2px 2px 2px;
+    color: rgb(32, 60, 113);
+    text-decoration: underline;
+}
+#hobbies{
+     text-shadow: 2px 2px 2px;
+    color: rgb(32, 60, 113);
+    text-decoration: underline;
+}
+#referees{
+     text-shadow: 2px 2px 2px;
+    color: rgb(32, 60, 113);
+    text-decoration: underline;
+}
+#declar{
+    
+text-shadow: 2px 2px 2px;
+    color: rgb(32, 60, 113);
+    text-decoration: underline;
+}
